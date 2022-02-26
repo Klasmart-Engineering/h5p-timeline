@@ -2,8 +2,8 @@
   "title": "Timeline",
   "description": "Create good loking timelines",
   "majorVersion": 1,
-  "minorVersion": 1,
-  "patchVersion": 22,
+  "minorVersion": 2,
+  "patchVersion": 0,
   "runnable": 1,
   "fullscreen": 1,
   "machineName": "H5P.Timeline",
@@ -11,7 +11,12 @@
     {
       "machineName": "TimelineJS",
       "majorVersion": 1,
-      "minorVersion": 1
+      "minorVersion": 2
+    },
+    {
+      "machineName": "FontKidsLoop",
+      "majorVersion": 1,
+      "minorVersion": 0
     }
   ],
   "author": "Joubel",
